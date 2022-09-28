@@ -6,8 +6,8 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAUZZQUTZTNUCAPMDB
-      secret-key: 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
+      access-key: 
+      secret-key: 
     end-point:
       uri-fifo: https://sqs.ap-southeast-1.amazonaws.com/330277625446/MyFIFOQueue.fifo
       uri-simple: https://sqs.ap-southeast-1.amazonaws.com/330277625446/SimpleQueue
